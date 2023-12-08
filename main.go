@@ -31,6 +31,6 @@ func main() {
 
 	writeValues(maxRates, "Максимальные")
 	writeValues(minRates, "Минимальные")
-	writeAggregatedValues(AggregatedRates, "Сумма курсов")
+	writeAggregatedValues(AggregatedRates, "Среднее значение курса рубля")
 
 }
